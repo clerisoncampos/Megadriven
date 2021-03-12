@@ -1,0 +1,21 @@
+div {
+    border: 1px solid #7AAFBB;
+    padding: 5px;
+  }
+  
+  .img1 {
+    float: right;
+  }
+  
+  .clearfix {
+    overflow: auto;
+  }
+  
+  .img2 {
+    float: right;
+  }
+
+  body {
+    background-color: #E2DCF3;
+    background-image: url("img/backg4.png"); 
+  }
