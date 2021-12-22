@@ -7,5 +7,5 @@ the rom files must have the same name of the image files, and it must be in png 
 ex sonic.png will be linked to sonic.smd or sonic.bin
 <br />
 <br />
-![alt text](http://clerison-com.umbler.net/usoexterno/md01.png)
-![alt text](http://clerison-com.umbler.net/usoexterno/md02.png)
+![alt text](https://tecnogami.000webhostapp.com//usoexterno/md01.png)
+![alt text](https://tecnogami.000webhostapp.com//usoexterno/md02.png)
